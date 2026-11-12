@@ -12,7 +12,6 @@
 <a href="https://www.linkedin.com/in/sebasti%C3%A1n-salas-torres-317a4a425/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Jsebastiansalas"><img src="https://img.shields.io/badge/GitHub-Jsebastiansalas-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:juansebastiansalas29@gmail.com"><img src="https://img.shields.io/badge/Email-Contr%C3%A1tame-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Jsebastiansalas&label=Visitas&color=7c3aed&style=for-the-badge" />
 
 <br/>
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Disponible_para_nuevas_oportunidades-22c55e?style=for-the-badge" />
@@ -202,8 +201,7 @@ flowchart LR
       🇪🇸 <b>Español</b> — Nativo<br/>
       <img src="https://img.shields.io/badge/-100%25-22c55e?style=flat-square" />
       <br/><br/>
-      🇬🇧 <b>Inglés</b> — A2 (en mejora constante)<br/>
-      <img src="https://img.shields.io/badge/-A2_%E2%86%92_B1-0ea5e9?style=flat-square" />
+      🇬🇧 <b>Inglés</b> — A2 (en mejora constante)
     </td>
   </tr>
 </table>
