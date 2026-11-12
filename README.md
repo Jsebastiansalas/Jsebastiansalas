@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Sebasti%C3%A1n%20Salas&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20AI%20Systems&descAlignY=58&descSize=22" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Juan%20Sebasti%C3%A1n%20Salas&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Java%20%26%20AI&descAlignY=58&descSize=22" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Sebasti%C3%A1n+Salas;%E2%98%95+Backend+Engineer+%7C+Java+%26+Spring+Boot;%F0%9F%A4%96+AI+Engineer+%7C+Python+%26+LangChain;%F0%9F%8F%9B%EF%B8%8F+Clean+Architecture+%26+DDD;%F0%9F%9A%80+Construyendo+sistemas+inteligentes+y+escalables" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Sebasti%C3%A1n+Salas;%F0%9F%92%BB+Full+Stack+Developer;%E2%98%95+Backend+%7C+Java+%26+Spring+Boot;%F0%9F%A4%96+IA+%7C+Python+%26+LangChain;%F0%9F%8E%93+Estudiante+en+Campuslands;%F0%9F%9A%80+Construyendo+soluciones+de+punta+a+punta" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 <br/>
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Disponible_para_nuevas_oportunidades-22c55e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/%F0%9F%8C%8E_Remoto_%2F_H%C3%ADbrido-0ea5e9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8D_Colombia-f59e0b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Gir%C3%B3n%2C_Santander_%F0%9F%87%A8%F0%9F%87%B4-f59e0b?style=for-the-badge" />
 
 <br/><br/>
 
@@ -32,9 +32,9 @@
 
 <div align="center">
 
-| 🎯 Rol | 🧰 Stack principal | 🏛️ Arquitectura | 🌎 Modalidad |
-|:---:|:---:|:---:|:---:|
-| **Backend & AI Engineer** | Java · Spring Boot · Python · LangChain | DDD · Clean Architecture · Microservicios | Remoto / Híbrido |
+| 🎯 Rol | 🧰 Stack principal | 🎓 Formación | 🗣️ Idiomas | 🌎 Modalidad |
+|:---:|:---:|:---:|:---:|:---:|
+| **Full Stack Developer**<br/><sub>énfasis Backend Java & IA</sub> | Java · Spring Boot · Python<br/>JavaScript · MySQL · PostgreSQL | Técnico en Programación<br/>Avanzada de Software<br/><sub>Campuslands · 2026</sub> | Español (nativo)<br/>Inglés (A2, en mejora) | Remoto / Híbrido<br/><sub>Girón, Santander</sub> |
 
 </div>
 
@@ -42,10 +42,11 @@
 <summary><b>👉 ¿Por qué contratarme? (clic para ver)</b></summary>
 <br/>
 
-- ✅ **Entrego código listo para producción:** APIs REST seguras con JWT y RBAC, probadas con TDD y empaquetadas en Docker.
-- ✅ **Uno backend e Inteligencia Artificial:** integro LLMs (Gemini y OpenAI) y agentes autónomos en sistemas empresariales reales.
-- ✅ **Diseño pensando en el futuro:** separo dominio, aplicación e infraestructura para que el sistema crezca sin volverse inmanejable.
-- ✅ **Hablo el idioma del negocio:** modelo los problemas con Domain-Driven Design antes de escribir una línea de código.
+- ✅ **Construyo soluciones completas:** desde la interfaz (HTML5, CSS3, JavaScript) hasta el backend (Java, Spring Boot) y la base de datos (MySQL, PostgreSQL).
+- ✅ **Sumo Inteligencia Artificial:** he integrado LLMs (Gemini y OpenAI) y agentes con LangChain en mis proyectos.
+- ✅ **Trabajo en equipo con Scrum:** participo en la planificación de sprints, estimo tareas y gestiono el backlog en Jira.
+- ✅ **Aplico buenas prácticas:** APIs REST seguras con JWT, Clean Architecture, DDD, pruebas y Docker.
+- ✅ **Aprendo rápido y por mi cuenta:** soy responsable, disciplinado y autodidacta, y sigo mejorando mi inglés.
 
 </details>
 
@@ -61,16 +62,20 @@
 ```java
 public class SebastianSalas extends SoftwareEngineer {
 
-    private final String role     = "Backend & AI Engineer";
-    private final String location = "Colombia 🇨🇴";
+    private final String role      = "Full Stack Developer";
+    private final String location  = "Girón, Santander 🇨🇴";
+    private final String education = "Programación Avanzada de Software @ Campuslands";
 
-    private final String[] backend = {"Java 17+", "Spring Boot 3", "Spring Security"};
-    private final String[] ai      = {"Python", "LangChain", "FastAPI", "LLMs"};
-    private final String[] mindset = {"Clean Architecture", "DDD", "TDD", "Microservices"};
+    private final String[] frontend  = {"JavaScript", "HTML5", "CSS3"};
+    private final String[] backend   = {"Java", "Spring Boot", "Spring Security"};
+    private final String[] ai        = {"Python", "LangChain", "FastAPI", "LLMs"};
+    private final String[] databases = {"MySQL", "PostgreSQL"};
+    private final String[] workflow  = {"Scrum", "Jira", "Git", "GitHub"};
+    private final String[] languages = {"Español (nativo)", "Inglés (A2)"};
 
     public String mission() {
-        return "Construir sistemas robustos, escalables e inteligentes "
-             + "que generen impacto real en el negocio.";
+        return "Construir soluciones completas, desde la interfaz "
+             + "hasta el backend y la base de datos.";
     }
 }
 ```
@@ -87,10 +92,11 @@ public class SebastianSalas extends SoftwareEngineer {
 </tr>
 </table>
 
-- 🔭 **Enfoque actual:** Arquitecturas backend de alto rendimiento con **Java & Spring Boot** y agentes autónomos con **Python & LangChain**.
-- 🧠 **Pasión técnica:** Clean Architecture, Domain-Driven Design, microservicios e IA aplicada a decisiones empresariales.
-- ✅ **Buenas prácticas:** TDD, pruebas unitarias e integración, Docker y diseño de APIs REST de nivel empresarial.
-- ⚡ **Dato curioso:** Convierto problemas de negocio complejos en código limpio y mantenible.
+- 🎓 **Formación:** estudio el **Técnico en Programación Avanzada de Software** en **Campuslands** (2026, en curso).
+- 🔭 **Enfoque actual:** backend con **Java & Spring Boot** y agentes de IA con **Python & LangChain**.
+- 🛒 **Experiencia práctica:** proyectos académicos como un **e-commerce** y **sistemas de gestión**, además de proyectos personales con IA.
+- 🤝 **Metodología:** trabajo con **Scrum** (sprints, estimación y backlog) usando **Jira**, **Git** y **GitHub**.
+- 🌱 **Actitud:** responsable, disciplinado y autodidacta. Hoy mejoro mi inglés para seguir creciendo.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -100,24 +106,24 @@ public class SebastianSalas extends SoftwareEngineer {
 <table>
   <tr>
     <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>
+      <b>Full Stack</b><br/>
+      <sub>Interfaces web dinámicas con JavaScript, HTML5 y CSS3, conectadas a mi propio backend.</sub>
+    </td>
+    <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=spring" width="48"/><br/>
-      <b>Backend Robusto</b><br/>
-      <sub>APIs REST escalables con Spring Boot 3, seguridad JWT y persistencia optimizada.</sub>
+      <b>Backend Sólido</b><br/>
+      <sub>APIs REST con Spring Boot, seguridad JWT y bases de datos MySQL y PostgreSQL.</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
       <b>IA Aplicada</b><br/>
-      <sub>Agentes autónomos y pipelines con LangChain, Gemini y OpenAI que resuelven problemas reales.</sub>
+      <sub>Agentes y análisis con LangChain, Gemini y OpenAI integrados en proyectos reales.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
-      <b>Listo para Producción</b><br/>
-      <sub>Contenedores multi-stage, CI con GitHub Actions y pruebas automatizadas.</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=java" width="48"/><br/>
-      <b>Arquitectura Limpia</b><br/>
-      <sub>DDD y Clean Architecture para código mantenible que escala con el negocio.</sub>
+      <img src="https://cdn.simpleicons.org/jira/0052CC" width="48"/><br/>
+      <b>Trabajo Ágil</b><br/>
+      <sub>Scrum, sprints, estimación de tareas y backlog en Jira. Control de versiones con Git.</sub>
     </td>
   </tr>
 </table>
@@ -143,28 +149,64 @@ flowchart LR
 
 <div align="center">
 
-### ☕ Backend
+### ☕ Backend y Bases de Datos
 <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,postgres,mysql&perline=6" />
 
-### 🤖 IA y Python
-<img src="https://skillicons.dev/icons?i=python,fastapi,ai,js,bash&perline=6" />
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=js,html,css&perline=6" />
 
-### 🐳 DevOps y Herramientas
+### 🤖 IA y Python
+<img src="https://skillicons.dev/icons?i=python,fastapi,ai,bash&perline=6" />
+
+### 🐳 DevOps, Herramientas y Gestión
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,linux&perline=6" />
+<img src="https://cdn.simpleicons.org/jira/0052CC" height="48" />
 
 <br/><br/>
 
-![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![DDD](https://img.shields.io/badge/DDD_%26_Clean_Arch-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<!-- ═══════════════════════════ EDUCATION ═══════════════════════════ -->
+## 🎓 Formación e Idiomas
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Técnico en Programación Avanzada de Software</h4>
+      <b>Campuslands</b> · <i>2026 (en curso)</i><br/>
+      <sub>Formación intensiva en desarrollo full stack: Java, Spring Boot, JavaScript, bases de datos relacionales y trabajo ágil con Scrum.</sub>
+      <br/><br/>
+      <h4>📘 Bachiller</h4>
+      <b>Colegio Siglo XXI</b> · <i>2025</i>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗣️ Idiomas</h4>
+      🇪🇸 <b>Español</b> — Nativo<br/>
+      <img src="https://img.shields.io/badge/-100%25-22c55e?style=flat-square" />
+      <br/><br/>
+      🇬🇧 <b>Inglés</b> — A2 (en mejora constante)<br/>
+      <img src="https://img.shields.io/badge/-A2_%E2%86%92_B1-0ea5e9?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -240,7 +282,7 @@ flowchart LR
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <div align="center">
 
-### 🤝 ¿Buscas un ingeniero backend con visión en IA? ¡Hablemos!
+### 🤝 ¿Buscas un desarrollador full stack con ganas de crecer y visión en IA? ¡Hablemos!
 
 <a href="mailto:juansebastiansalas29@gmail.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Abierto+a+oportunidades+remotas+e+h%C3%ADbridas;Construido+con+pasi%C3%B3n+por+el+c%C3%B3digo+limpio+%E2%9C%A8" />
