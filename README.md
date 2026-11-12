@@ -158,14 +158,7 @@ public class SebastianSalas extends SoftwareEngineer {
 ## <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="30"> Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jsebastiansalas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsebastiansalas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" height="170" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jsebastiansalas&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" width="70%" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jsebastiansalas&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true" width="100%" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Jsebastiansalas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
