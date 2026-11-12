@@ -16,8 +16,38 @@
 
 <br/>
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Disponible_para_nuevas_oportunidades-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%8E_Remoto_%2F_H%C3%ADbrido-0ea5e9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Colombia-f59e0b?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="./assets/terminal.svg" alt="Terminal animada" width="90%" />
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<!-- ═══════════════════════════ RECRUITER TL;DR ═══════════════════════════ -->
+## ⚡ Resumen para Reclutadores
+
+<div align="center">
+
+| 🎯 Rol | 🧰 Stack principal | 🏛️ Arquitectura | 🌎 Modalidad |
+|:---:|:---:|:---:|:---:|
+| **Backend & AI Engineer** | Java · Spring Boot · Python · LangChain | DDD · Clean Architecture · Microservicios | Remoto / Híbrido |
+
+</div>
+
+<details>
+<summary><b>👉 ¿Por qué contratarme? (clic para ver)</b></summary>
+<br/>
+
+- ✅ **Entrego código listo para producción:** APIs REST seguras con JWT y RBAC, probadas con TDD y empaquetadas en Docker.
+- ✅ **Uno backend e Inteligencia Artificial:** integro LLMs (Gemini y OpenAI) y agentes autónomos en sistemas empresariales reales.
+- ✅ **Diseño pensando en el futuro:** separo dominio, aplicación e infraestructura para que el sistema crezca sin volverse inmanejable.
+- ✅ **Hablo el idioma del negocio:** modelo los problemas con Domain-Driven Design antes de escribir una línea de código.
+
+</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -61,6 +91,50 @@ public class SebastianSalas extends SoftwareEngineer {
 - 🧠 **Pasión técnica:** Clean Architecture, Domain-Driven Design, microservicios e IA aplicada a decisiones empresariales.
 - ✅ **Buenas prácticas:** TDD, pruebas unitarias e integración, Docker y diseño de APIs REST de nivel empresarial.
 - ⚡ **Dato curioso:** Convierto problemas de negocio complejos en código limpio y mantenible.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<!-- ═══════════════════════════ VALUE ═══════════════════════════ -->
+## 💎 Lo que Aporto a tu Equipo
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=spring" width="48"/><br/>
+      <b>Backend Robusto</b><br/>
+      <sub>APIs REST escalables con Spring Boot 3, seguridad JWT y persistencia optimizada.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+      <b>IA Aplicada</b><br/>
+      <sub>Agentes autónomos y pipelines con LangChain, Gemini y OpenAI que resuelven problemas reales.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
+      <b>Listo para Producción</b><br/>
+      <sub>Contenedores multi-stage, CI con GitHub Actions y pruebas automatizadas.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=java" width="48"/><br/>
+      <b>Arquitectura Limpia</b><br/>
+      <sub>DDD y Clean Architecture para código mantenible que escala con el negocio.</sub>
+    </td>
+  </tr>
+</table>
+
+### 🔄 Cómo construyo software
+
+```mermaid
+flowchart LR
+    A["🎯 Problema de negocio"] --> B["🧩 Modelado DDD"]
+    B --> C["☕ API Spring Boot"]
+    C --> D["🔒 Seguridad JWT / RBAC"]
+    C --> E["🤖 Agentes IA - LangChain"]
+    D --> F["🧪 Tests TDD"]
+    E --> F
+    F --> G["🐳 Docker + CI/CD"]
+    G --> H["🚀 Producción"]
+```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -155,7 +229,7 @@ public class SebastianSalas extends SoftwareEngineer {
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-## <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="30"> Estadísticas de GitHub
+## <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="30"> Actividad en GitHub
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jsebastiansalas&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" width="70%" />
@@ -171,6 +245,11 @@ public class SebastianSalas extends SoftwareEngineer {
 <a href="mailto:juansebastiansalas29@gmail.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Abierto+a+oportunidades+remotas+e+h%C3%ADbridas;Construido+con+pasi%C3%B3n+por+el+c%C3%B3digo+limpio+%E2%9C%A8" />
 </a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/sebasti%C3%A1n-salas-torres-317a4a425/"><img src="https://img.shields.io/badge/Agendar_una_charla-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:juansebastiansalas29@gmail.com"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%" />
 
